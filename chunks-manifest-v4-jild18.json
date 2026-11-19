@@ -1,0 +1,153 @@
+{
+ "chunks": [
+  {
+   "chunk": "01",
+   "description": "Jild 18, pp. 5-137",
+   "end_page": 137,
+   "file": "jild-18-chunk-01.json",
+   "items": 20,
+   "pages_present": 48,
+   "start_page": 5,
+   "status": "done",
+   "verified": "2026-11-19 ~05:50 PKT — coordinator verified: 20 items, pp.5-137, ids/titles/pages == v3, vol 46, sp==min, 1 empty sawal, 0 empty jawab, notes 58 vs v3 57, glosses 201x 'کا مطلب' + 3x 'کہتے ہیں', A1=0 real hits (worker-reported), A2 harsh terms kept per worker report. +1 note vs v3 (pp.8-92 source gap noted). SHA ef5aad00…."
+  },
+  {
+   "chunk": "02",
+   "description": "Jild 18, pp. 139-188",
+   "end_page": 188,
+   "file": "jild-18-chunk-02.json",
+   "items": 15,
+   "pages_present": 50,
+   "start_page": 139,
+   "status": "done",
+   "verified": "2026-11-19 ~05:50 PKT — coordinator verified: 15 items, pp.139-188, ids/titles/pages == v3, vol 46, sp==min, 0 empty sawal, 0 empty jawab, notes 31 vs v3 31, glosses 89x 'کا مطلب' + 5x 'کہتے ہیں', A1=0 real hits (worker-reported), A2 harsh terms kept per worker report. No fix-ups; clean re-write. SHA 11dd043c…."
+  },
+  {
+   "chunk": "03",
+   "description": "Jild 18, pp. 189-238",
+   "end_page": 238,
+   "file": "jild-18-chunk-03.json",
+   "items": 16,
+   "pages_present": 50,
+   "start_page": 189,
+   "status": "done",
+   "verified": "2026-11-19 ~05:50 PKT — coordinator verified: 16 items, pp.189-238, ids/titles/pages == v3, vol 46, sp==min, 1 empty sawal, 0 empty jawab, notes 35 vs v3 35, glosses 147x 'کا مطلب' + 1x 'کہتے ہیں', A1=0 real hits (worker-reported), A2 harsh terms kept per worker report. No fix-ups; clean re-write. SHA 04bf07e9…."
+  },
+  {
+   "chunk": "04",
+   "description": "Jild 18, pp. 239-289",
+   "end_page": 289,
+   "file": "jild-18-chunk-04.json",
+   "items": 17,
+   "pages_present": 50,
+   "start_page": 239,
+   "status": "done",
+   "verified": "2026-11-19 ~05:50 PKT — coordinator verified: 17 items, pp.239-289, ids/titles/pages == v3, vol 46, sp==min, 2 empty sawal, 0 empty jawab, notes 38 vs v3 37, glosses 122x 'کا مطلب' + 13x 'کہتے ہیں', A1=0 real hits (worker-reported), A2 harsh terms kept per worker report. +1 note (masala-67: خیریہ / جامع الفتاویٰ detail restored from p.277, dropped in v3); written in 3 file-tool calls (masala-66's 40k chars needed its own edit). SHA 8532446c…."
+  },
+  {
+   "chunk": "05",
+   "description": "Jild 18, pp. 290-339",
+   "end_page": 339,
+   "file": "jild-18-chunk-05.json",
+   "items": 8,
+   "pages_present": 50,
+   "start_page": 290,
+   "status": "done",
+   "verified": "2026-11-19 ~05:50 PKT — coordinator verified: 8 items, pp.290-339, ids/titles/pages == v3, vol 46, sp==min, 1 empty sawal, 0 empty jawab, notes 13 vs v3 13, glosses 481x 'کا مطلب' + 20x 'کہتے ہیں', A1=0 real hits (worker-reported), A2 harsh terms kept per worker report. Fixed 'مجوز نے لحاظ نہ فرمایا' -> 'لحاظ نہ کیا'. SHA deec08e5…."
+  },
+  {
+   "chunk": "06",
+   "description": "Jild 18, pp. 340-389",
+   "end_page": 389,
+   "file": "jild-18-chunk-06.json",
+   "items": 6,
+   "pages_present": 50,
+   "start_page": 340,
+   "status": "done",
+   "verified": "2026-11-19 ~05:50 PKT — coordinator verified: 6 items, pp.340-389, ids/titles/pages == v3, vol 46, sp==min, 1 empty sawal, 1 empty jawab, notes 17 vs v3 17, glosses 105x 'کا مطلب' + 6x 'کہتے ہیں', A1=0 real hits (worker-reported), A2 harsh terms kept per worker report. Single empty jawab = masala-90 head, as designed (answer lives in the c07 tails); file initially missed final '}' — worker repaired + re-validated. SHA e252d51f…."
+  },
+  {
+   "chunk": "07",
+   "description": "Jild 18, pp. 390-439",
+   "end_page": 439,
+   "file": "jild-18-chunk-07.json",
+   "items": 5,
+   "pages_present": 50,
+   "start_page": 390,
+   "status": "done",
+   "verified": "2026-11-19 ~05:50 PKT — coordinator verified: 5 items, pp.390-439, ids/titles/pages == v3, vol 46, sp==min, 1 empty sawal, 0 empty jawab, notes 21 vs v3 21, glosses 168x 'کا مطلب' + 1x 'کہتے ہیں', A1=0 real hits (worker-reported), A2 harsh terms kept per worker report. Holds the masala-90 tails (ansah-sawal-1 sawal empty, ansah-sawal-2 sawal kept) and the masala-94 head. SHA 17bcbbd6…."
+  },
+  {
+   "chunk": "08",
+   "description": "Jild 18, pp. 440-489",
+   "end_page": 489,
+   "file": "jild-18-chunk-08.json",
+   "items": 24,
+   "pages_present": 50,
+   "start_page": 440,
+   "status": "done",
+   "verified": "2026-11-19 ~05:50 PKT — coordinator verified: 24 items, pp.440-489, ids/titles/pages == v3, vol 46, sp==min, 12 empty sawal, 0 empty jawab, notes 69 vs v3 69, glosses 187x 'کا مطلب' + 4x 'کہتے ہیں', A1=0 real hits (worker-reported), A2 harsh terms kept per worker report. Holds all 12 masala-94 p-items [440-465], sawals empty by design. SHA 556a9227…."
+  },
+  {
+   "chunk": "09",
+   "description": "Jild 18, pp. 490-539",
+   "end_page": 539,
+   "file": "jild-18-chunk-09.json",
+   "items": 3,
+   "pages_present": 49,
+   "start_page": 490,
+   "status": "done",
+   "verified": "2026-11-19 ~05:50 PKT — coordinator verified: 3 items, pp.490-539, ids/titles/pages == v3, vol 46, sp==min, 1 empty sawal, 0 empty jawab, notes 12 vs v3 12, glosses 119x 'کا مطلب' + 4x 'کہتے ہیں', A1=0 real hits (worker-reported), A2 harsh terms kept per worker report. Fixed 'تحریر فرمایا' -> 'لکھا ہے' for Mufti Abdullah (masala-114 sawal). SHA b4a57c97…."
+  },
+  {
+   "chunk": "10",
+   "description": "Jild 18, pp. 540-589",
+   "end_page": 589,
+   "file": "jild-18-chunk-10.json",
+   "items": 11,
+   "pages_present": 50,
+   "start_page": 540,
+   "status": "done",
+   "verified": "2026-11-19 ~05:50 PKT — coordinator verified: 11 items, pp.540-589, ids/titles/pages == v3, vol 46, sp==min, 1 empty sawal, 0 empty jawab, notes 32 vs v3 30, glosses 54x 'کا مطلب' + 90x 'کہتے ہیں', A1=0 real hits (worker-reported), A2 harsh terms kept per worker report. Restored a Druze passage p.550 missing in v3. SHA 17f9715c…."
+  },
+  {
+   "chunk": "11",
+   "description": "Jild 18, pp. 590-639",
+   "end_page": 639,
+   "file": "jild-18-chunk-11.json",
+   "items": 13,
+   "pages_present": 50,
+   "start_page": 590,
+   "status": "done",
+   "verified": "2026-11-19 ~05:50 PKT — coordinator verified: 13 items, pp.590-639, ids/titles/pages == v3, vol 46, sp==min, 1 empty sawal, 0 empty jawab, notes 22 vs v3 22, glosses 143x 'کا مطلب' + 4x 'کہتے ہیں', A1=0 real hits (worker-reported), A2 harsh terms kept per worker report. COORDINATOR FIX-UP: worker had re-titled 7 items (masala-132, 133, 134-137, 138, 139, 140, 141); all 7 titles restored to their v3 chunk titles, re-verified (SHA 5bbfebfd...). SHA 5bbfebfd…."
+  },
+  {
+   "chunk": "12",
+   "description": "Jild 18, pp. 640-689",
+   "end_page": 689,
+   "file": "jild-18-chunk-12.json",
+   "items": 2,
+   "pages_present": 50,
+   "start_page": 640,
+   "status": "done",
+   "verified": "2026-11-19 ~05:50 PKT — coordinator verified: 2 items, pp.640-689, ids/titles/pages == v3, vol 46, sp==min, 1 empty sawal, 0 empty jawab, notes 11 vs v3 11, glosses 647x 'کا مطلب' + 2x 'کہتے ہیں', A1=0 real hits (worker-reported), A2 harsh terms kept per worker report. Fixed 3 slips (Abdul Ghafir 'فرمایا'->'کہا'; court 'تجویز فرمایا گیا'->'تجویز کیا گیا'; lawyers 'فرماتے ہیں'->'کہتے ہیں'). SHA bd69fbee…."
+  },
+  {
+   "chunk": "13",
+   "description": "Jild 18, pp. 690-736",
+   "end_page": 736,
+   "file": "jild-18-chunk-13.json",
+   "items": 9,
+   "pages_present": 47,
+   "start_page": 690,
+   "status": "done",
+   "verified": "2026-11-19 ~05:50 PKT — coordinator verified: 9 items, pp.690-736, ids/titles/pages == v3, vol 46, sp==min, 2 empty sawal, 0 empty jawab, notes 23 vs v3 23, glosses 70x 'کا مطلب' + 10x 'کہتے ہیں', A1=0 real hits (worker-reported), A2 harsh terms kept per worker report. Fixed 'عمرو فرماتا ہے' -> 'کہتا ہے' (masala-143). SHA 621e7029…."
+  }
+ ],
+ "total_pages_present": 644,
+ "total_unique_pages": 644,
+ "volume": "Jild 18",
+ "volume_ids": [
+  46
+ ]
+}
